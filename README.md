@@ -26,11 +26,11 @@ Course link - [https://www.udemy.com/course/the-complete-javascript-course/](htt
 | 07    |  JavaScript in the Browser_ DOM and Events Fundamentals                    |                   Completed                    |
 | 08    |  How JavaScript Works Behind the Scenes                                    |                   Completed                    |
 | 09    |  Data Structures, Modern Operators and Strings                             |                   Completed                    |
-| 10    |  A Closer Look at Functions                                                |                                         |
-| 11    |  Working With Arrays                                                       |                                         |
-| 12    |  Numbers, Dates, Intl, and Timers                                          |                                         |
-| 13    |  Advanced DOM and Events                                                   |                                         |
-| 14    |  Object-Oriented Programming (OOP) With JavaScript                         |                                         |
+| 10    |  A Closer Look at Functions                                                |                   Completed                    |
+| 11    |  Working With Arrays                                                       |                   Completed                    |
+| 12    |  Numbers, Dates, Intl, and Timers                                          |                   Completed                    |
+| 13    |  Advanced DOM and Events                                                   |                   Completed                    |
+| 14    |  Object-Oriented Programming (OOP) With JavaScript                         |                   Completed                    |
 | 15    |  Mapty App_ OOP, Geolocation, External Libraries, and More!                |                                         |
 | 16    |  Asynchronous JavaScript_ Promises, Async_Await, and AJAX                  |                                         |
 | 17    |  Modern JavaScript Development_ Modules, Tooling, and Functional           |                                         |
